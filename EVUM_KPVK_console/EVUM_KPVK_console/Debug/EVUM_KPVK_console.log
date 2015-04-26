@@ -1,0 +1,14 @@
+﻿Сборка начата 21.04.2015 23:37:40.
+     1>Проект "H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\EVUM_KPVK_console\EVUM_KPVK_console.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt class_evum_kpvk.cpp
+         class_evum_kpvk.cpp
+       Link:
+         E:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\Debug\EVUM_KPVK_console.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\Debug\EVUM_KPVK_console.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\Debug\EVUM_KPVK_console.lib" /MACHINE:X86 Debug\class_evum_kpvk.obj
+         Debug\main.obj
+         EVUM_KPVK_console.vcxproj -> H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\Debug\EVUM_KPVK_console.exe
+     1>Сборка проекта "H:\курсовая_работа\Курсовая работа\EVUM_KPVK_console\EVUM_KPVK_console\EVUM_KPVK_console.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.35
